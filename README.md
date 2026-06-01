@@ -88,6 +88,19 @@
 
 # Задание 2: Настройка пользователя репликации на мастере
 
-![Статус мастера](status_mysql_master.png)
-![Статус реплики](screenshots/task2/2_slave_status.png)
+##  Статус службы MySQL (master)
+![Скриншот статуса мастера](status_mysql_master.png)
+
+##  Статус службы MySQL (slave)
+![Скриншот cтатуса реплики](screenshots/task2/2_slave_status.png)
+
+##  Скриншот конфигурации MySQL (master)
+![Скриншот конфигурации MySQL](conf_master.png)
+
+##  Скриншот конфигурации MySQL (slave)
+![Скриншот конфигурации MySQL](conf_slave.png)
+
+##  Скриншот вывода SHOW MASTER STATUS
+![Скриншот вывода SHOW MASTER STATUS](show_master_status_use_testdb.png)
+
 
