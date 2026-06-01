@@ -103,4 +103,6 @@
 ##  Скриншот вывода SHOW MASTER STATUS
 ![Скриншот вывода SHOW MASTER STATUS](show_master_status_use_testdb.png)
 
+##  Скриншот вывода SHOW REPLICA STATUS\G
+![Скриншот вывода SHOW REPLICA STATUS\G](show_replica_status\g.png)
 
