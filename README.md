@@ -106,3 +106,9 @@
 ##  Скриншот вывода SHOW REPLICA STATUS\G
 ![Скриншот вывода SHOW REPLICA STATUS\G](show_replica_status\g.png)
 
+##  Скриншот вывода SHOW REPLICA STATUS\G и проверка реплицированных данных
+![Скриншот вывода SHOW REPLICA STATUS\G,testdb](use_testdb.png)
+
+##  Скриншот вывода SHOW REPLICA STATUS\G
+![Скриншот вывода SHOW REPLICA STATUS\G](connection_server.png)
+
