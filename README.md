@@ -88,3 +88,9 @@
 
 # Задание 2: Настройка пользователя репликации на мастере
 
+![Политика паролей](screenshots/task1/1_validate_password_policy.png)
+![Создание пользователя](screenshots/task1/2_user_created.png)
+![Права пользователя](screenshots/task1/3_user_grants.png)
+![Статус мастера](screenshots/task2/1_master_status.png)
+![Статус реплики](screenshots/task2/2_slave_status.png)
+![Синхронизированные данные](screenshots/task2/3_data_synchronized.png)
