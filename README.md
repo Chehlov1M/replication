@@ -100,7 +100,7 @@
 ##  Скриншот конфигурации MySQL (slave)
 ![Скриншот конфигурации MySQL](conf_slave.png)
 
-##  Скриншот вывода SHOW MASTER STATUS
+##  Скриншот вывода SHOW MASTER STATUS, создание базы и таблицы, вставка данных
 ![Скриншот вывода SHOW MASTER STATUS](show_master_status_use_testdb.png)
 
 ##  Скриншот вывода SHOW REPLICA STATUS\G
@@ -109,6 +109,6 @@
 ##  Скриншот вывода SHOW REPLICA STATUS\G и проверка реплицированных данных
 ![Скриншот вывода SHOW REPLICA STATUS\G,testdb](use_testdb.png)
 
-##  Скриншот вывода SHOW REPLICA STATUS\G
-![Скриншот вывода SHOW REPLICA STATUS\G](connection_server.png)
+##  Скриншот теста подключения к удалённому серверу MySQL
+![Скриншот теста подключения к удалённому серверу MySQL](connection_server.png)
 
