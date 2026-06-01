@@ -92,7 +92,7 @@
 ![Скриншот статуса мастера](status_mysql_master.png)
 
 ##  Статус службы MySQL (slave)
-![Скриншот cтатуса реплики](screenshots/task2/2_slave_status.png)
+![Скриншот cтатуса реплики](status_mysql_slave.png)
 
 ##  Скриншот конфигурации MySQL (master)
 ![Скриншот конфигурации MySQL](conf_master.png)
